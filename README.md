@@ -1,1 +1,1 @@
-[![Hexagon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hexagon&theme=gotham&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Hexagon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hexagon&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
