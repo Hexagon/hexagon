@@ -6,7 +6,7 @@ My Open Source Projects
 - [Minitz](https://github.com/hexagon/minitz) - Minimal timezone conversion library for JavaScript, written for Croner, but now it's own package. No dependencies.
 - [Entsoe-api-client](https://github.com/hexagon/entsoe-api-client) - Unofficial ENTSO-e REST API Client for Deno and Node.
 - [Bundlee](https://github.com/hexagon/bundlee) - Static file bundler for web frameworks supported by Deno (and usable on cli).
-- [Proper-tag](https://github.com/Hexagon/proper-tags) - Modernised (pure ESM) version of the popular package `common-tags`.
+- [Proper-tags](https://github.com/Hexagon/proper-tags) - Modernised (pure ESM) version of the popular package `common-tags`.
 - (etc...)
 
 I run on coffee and burgers, if you would like to support my work:
