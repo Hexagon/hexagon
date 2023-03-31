@@ -5,6 +5,7 @@ My Open Source Projects
 - [Base64](https://github.com/hexagon/base64) - Base64 and Base64url to string or arraybuffer. ESM. Node, Deno, Bun, Browser. No dependencies.
 - [Minitz](https://github.com/hexagon/minitz) - Minimal timezone conversion library for JavaScript, written for Croner, but now it's own package. No dependencies.
 - [Entsoe-api-client](https://github.com/hexagon/entsoe-api-client) - Unofficial ENTSO-e REST API Client for Deno and Node.
+- [Bundlee](https://github.com/hexagon/bundlee) - Static file bundler for web frameworks supported by Deno (and usable on cli).
 - (etc...)
 
 I run on coffee and burgers, if you would like to support my work:
