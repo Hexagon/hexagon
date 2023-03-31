@@ -3,8 +3,8 @@ My Open Source Projects
 - [Croner](https://github.com/hexagon/croner) - JavaScript cron parser/scheduler. ESM. Node, Deno, Bun, Browser. No dependencies. 
 - [Pup](https://github.com/hexagon/pup) - Fully featured process manager, written in typescript with love for Deno.
 - [Base64](https://github.com/hexagon/base64) - Base64 and Base64url to string or arraybuffer. ESM. Node, Deno, Bun, Browser. No dependencies.
-- [Minitz](https://github.com/hexagon/minitz) - Minimal timezone conversion library for JavaScript, written for Croner, but broken out to it's own package. No dependencies.
-- [Entsoe-api-client](https://github.com/hexagon/entsoe-api-client) - Unofficial ENTSO-e REST API Client for Deno and Node. Comprehensive. User-friendly. Minimalistic.
+- [Minitz](https://github.com/hexagon/minitz) - Minimal timezone conversion library for JavaScript, written for Croner, but now it's own package. No dependencies.
+- [Entsoe-api-client](https://github.com/hexagon/entsoe-api-client) - Unofficial ENTSO-e REST API Client for Deno and Node.
 - (etc...)
 
 I run on coffee and burgers, if you would like to support my work:
