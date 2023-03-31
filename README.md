@@ -4,6 +4,7 @@ My Open Source Projects
 - [Pup](https://github.com/hexagon/pup) - Fully featured process manager, written in typescript with love for Deno.
 - [Base64](https://github.com/hexagon/base64) - Base64 and Base64url to string or arraybuffer. ESM. Node, Deno, Bun, Browser. No dependencies.
 - [Minitz](https://github.com/hexagon/minitz) - Minimal timezone conversion library for JavaScript, written for Croner, but has been broken out to it's own package. No dependencies.
+- [Entsoe-api-client](https://github.com/hexagon/entsoe-api-client) - Unofficial ENTSO-e REST API Client for Deno and Node. Comprehensive. User-friendly. Minimalistic.
 - (etc...)
 
 I run on coffee and burgers, if you would like to support my work:
