@@ -9,6 +9,8 @@ My Open Source Projects
 - [Proper-tags](https://github.com/Hexagon/proper-tags) - Modernised (pure ESM) version of the popular package `common-tags`.
 - (etc...)
 
+Other than working on my own projects, I often find myself converting existing packages from Node-only CommonJS to Deno/Node/Bun ESM.
+
 I run on coffee and burgers, if you would like to support my work:
 
 <a href='https://ko-fi.com/C1C7IEEYF' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
