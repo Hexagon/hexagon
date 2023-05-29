@@ -7,6 +7,7 @@ My Open Source Projects
 - [Entsoe-api-client](https://github.com/hexagon/entsoe-api-client) - Unofficial ENTSO-e REST API Client for Deno and Node.
 - [Bundlee](https://github.com/hexagon/bundlee) - Static file bundler for web frameworks supported by Deno (and usable on cli).
 - [Proper-tags](https://github.com/Hexagon/proper-tags) - Modernised (pure ESM) version of the popular package `common-tags`.
+- [DETRIS](https://github.com/Hexagon/detris) - Server side, web based multiplayer Tetris-like game written in Deno using Deno KV as persistent storage.
 - (etc...)
 
 Other than working on my own projects, I often find myself converting existing packages from Node-only CommonJS to Deno/Node/Bun ESM.
