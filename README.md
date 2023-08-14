@@ -1,4 +1,4 @@
-My Open Source Projects
+Hi, I'm Hexagon! As an active open-source developer, I've developed and maintained several useful packages for the community. Here's a glance at my work:
 
 - [Croner](https://github.com/hexagon/croner) - JavaScript cron parser/scheduler. ESM. Node, Deno, Bun, Browser. No dependencies. 
 - [Pup](https://github.com/hexagon/pup) - Fully featured process manager, written in typescript with love for Deno.
@@ -12,10 +12,10 @@ My Open Source Projects
 
 Other than working on my own projects, I often find myself converting existing packages from Node-only CommonJS to Deno/Node/Bun ESM.
 
-NOTE: I run on coffee and burgers - if you would like to support my work:
+🍔 **Support My Work:**
 
-<a href='https://ko-fi.com/C1C7IEEYF' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 
+I'm fueled by coffee and burgers! If you've benefited from my work or believe in supporting open-source, consider backing me on [GitHub Sponsors](https://github.com/sponsors/Hexagon).
 
-... or checkout my [GitHub Sponsors](https://github.com/sponsors/Hexagon) page.<p align="center">
+<p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=Hexagon&show_icons=true&theme=noctis_minimus">
 </p>
