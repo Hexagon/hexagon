@@ -1,6 +1,6 @@
 Hi, I'm Hexagon! 
 
-As an active open-source developer, I've developed and maintained several useful packages for the community. Here's a glance at my work:
+A selection of my work:
 
 - [Croner](https://github.com/hexagon/croner) - JavaScript cron parser/scheduler. ESM. Node, Deno, Bun, Browser. No dependencies. 
 - [Pup](https://github.com/hexagon/pup) - Fully featured process manager, written in typescript with love for Deno.
