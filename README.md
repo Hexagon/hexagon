@@ -14,7 +14,7 @@ A selection of my work:
 - [DETRIS](https://github.com/Hexagon/detris) - Server side, web based multiplayer Tetris-like game written in Deno using Deno KV as persistent storage.
 - (etc...)
 
-Other than working on my own projects, I often find myself converting existing packages from Node-only CommonJS to Deno/Node/Bun ESM.
+Other than working on my own projects, I often find myself converting existing packages from CommonJS to Deno/Node/Bun ESM.
 
 🍔 **Support My Work:**
 
