@@ -2,8 +2,6 @@ Hi, I'm Hexagon!
 
 A selection of my work:
 
-- My blog at [hexagon.56k.guru](https://hexagon.56k.guru), where i write about JavaScript, my librares and contributions and more.
-
 - [Croner](https://github.com/hexagon/croner) - JavaScript cron parser/scheduler. ESM. Node, Deno, Bun, Browser. No dependencies.
 - [Croner-rust](https://github.com/hexagon/croner-rust) - Rust cron parser/scheduler. Fully featured, performant and minimalistic.
 - [Pup](https://github.com/hexagon/pup) - Fully featured process manager, written in typescript with love for Deno.
