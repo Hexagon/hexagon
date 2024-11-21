@@ -12,6 +12,7 @@ A selection of my work:
 - [Bundlee](https://github.com/hexagon/bundlee) - Static file bundler for web frameworks supported by Deno (and usable on cli).
 - [Proper-tags](https://github.com/Hexagon/proper-tags) - Modernised (pure ESM) version of the popular package `common-tags`.
 - [DETRIS](https://github.com/Hexagon/detris) - Server side, web based multiplayer Tetris-like game written in Deno using Deno KV as persistent storage.
+- [bsm](https://github.com/Hexagon/bedrock-server-manager) - Bedrock Server Manager - Install, upgrade and manage minecraft servers with ease.
 - (etc...)
 
 Other than working on my own projects, I often find myself converting existing packages from CommonJS to Deno/Node/Bun ESM.
