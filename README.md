@@ -21,7 +21,7 @@ Other than working on my own projects, I often find myself converting existing p
 
 🍔 **Support My Work:**
 
-I'm fueled by coffee and burgers! If you've benefited from my work or believe in supporting open-source, consider backing me on [GitHub Sponsors](https://github.com/sponsors/Hexagon).
+I'm fueled by coffee and burgers (and are constantly out of tokens)! If you've benefited from my work or believe in supporting open-source, consider backing me on [GitHub Sponsors](https://github.com/sponsors/Hexagon).
 
 <p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=Hexagon&show_icons=true&theme=noctis_minimus">
