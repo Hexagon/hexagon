@@ -2,6 +2,7 @@ Hi, I'm Hexagon!
 
 A selection of my work:
 
+- [Fyr](https://github.com/hexagon/fyr) - Off-Grid Content Platform. Local Maps, Library and AI Assistant.
 - [Croner](https://github.com/hexagon/croner) - JavaScript cron parser/scheduler. ESM. Node, Deno, Bun, Browser. No dependencies.
 - [Croner-rust](https://github.com/hexagon/croner-rust) - Rust cron parser/scheduler. Fully featured, performant and minimalistic.
 - [Hemulator](https://github.com/hexagon/hemulator) - Multi-system console emulator written in Rust. NES, Game Boy, SNES, N64, PC/DOS, Atari 2600, and more.
