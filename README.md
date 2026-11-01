@@ -1,10 +1,12 @@
-Hi, I'm Hexagon! 
+Hi, I'm Hexagon!
 
-A selection of my work:
+I build small, dependency-free libraries and tools for TypeScript, Deno and Rust.
+
+**[Croner](https://github.com/hexagon/croner)** is a cron parser and scheduler for JavaScript and TypeScript (Node, Deno, Bun, Browser, no dependencies). It runs in production in projects such as [pm2](https://github.com/unitech/pm2), [Uptime Kuma](https://github.com/louislam/uptime-kuma), [Dockge](https://github.com/louislam/dockge), [Z-Wave JS UI](https://github.com/zwave-js/zwave-js-ui) and [TrueNAS](https://github.com/truenas/webui). Its Rust sibling is **[croner-rust](https://github.com/hexagon/croner-rust)**.
+
+Other work:
 
 - [Fyr](https://github.com/hexagon/fyr) - Off-Grid Content Platform. Local Maps, Library and AI Assistant.
-- [Croner](https://github.com/hexagon/croner) - JavaScript cron parser/scheduler. ESM. Node, Deno, Bun, Browser. No dependencies.
-- [Croner-rust](https://github.com/hexagon/croner-rust) - Rust cron parser/scheduler. Fully featured, performant and minimalistic.
 - [Hemulator](https://github.com/hexagon/hemulator) - Multi-system console emulator written in Rust. NES, Game Boy, SNES, N64, PC/DOS, Atari 2600, and more.
 - [Pup](https://github.com/hexagon/pup) - Fully featured process manager, written in TypeScript with love for Deno.
 - [Lumocs](https://github.com/hexagon/lumocs) - Easy to use static site generator for documentation, utilizing Lume and Deno.
@@ -17,8 +19,6 @@ A selection of my work:
 - [bsm](https://github.com/Hexagon/bedrock-server-manager) - Bedrock Server Manager - Install, upgrade and manage Minecraft servers with ease.
 - (etc...)
 
-Other than working on my own projects, I often find myself converting existing packages from CommonJS to Deno/Node/Bun ESM.
+**Work with me:** I'm available for consulting on scheduling and time zone handling, and on migrating CommonJS packages to modern ESM/TypeScript for Node, Deno and Bun.
 
-🍔 **Support My Work:**
-
-I'm fueled by coffee and burgers (and are constantly out of tokens)! If you've benefited from my work or believe in supporting open-source, consider backing me on [GitHub Sponsors](https://github.com/sponsors/Hexagon).
+**Sponsors:** My open source work is sustained by [GitHub Sponsors](https://github.com/sponsors/Hexagon). Organizations that depend on Croner or my other projects can sponsor with invoicing and logo placement.
