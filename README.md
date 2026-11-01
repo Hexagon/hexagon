@@ -2,7 +2,7 @@ Hi, I'm Hexagon!
 
 I build small, dependency-free libraries and tools for TypeScript, Deno and Rust.
 
-**[Croner](https://github.com/hexagon/croner)** is a cron parser and scheduler for JavaScript and TypeScript (Node, Deno, Bun, Browser, no dependencies). It runs in production in projects such as [pm2](https://github.com/unitech/pm2), [Uptime Kuma](https://github.com/louislam/uptime-kuma), [Dockge](https://github.com/louislam/dockge), [Z-Wave JS UI](https://github.com/zwave-js/zwave-js-ui) and [TrueNAS](https://github.com/truenas/webui). Its Rust sibling is **[croner-rust](https://github.com/hexagon/croner-rust)**.
+**[Croner](https://github.com/hexagon/croner)** is a cron parser and scheduler for JavaScript and TypeScript (Node, Deno, Bun, Browser, no dependencies). It runs in production in projects such as [OpenClaw](https://github.com/openclaw/openclaw), [pm2](https://github.com/unitech/pm2), [Uptime Kuma](https://github.com/louislam/uptime-kuma), [Dockge](https://github.com/louislam/dockge), [Z-Wave JS UI](https://github.com/zwave-js/zwave-js-ui) and [TrueNAS](https://github.com/truenas/webui). Its Rust sibling is **[croner-rust](https://github.com/hexagon/croner-rust)**.
 
 Other work:
 
