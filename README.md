@@ -2,12 +2,12 @@ Hi, I'm Hexagon! I build open source tools, many of them small and dependency-fr
 
 A selection of my work:
 
-- [Croner](https://github.com/hexagon/croner) - JavaScript cron parser/scheduler. ESM. Node, Deno, Bun, Browser. No dependencies. 15M+ weekly downloads.
-- [Base64](https://github.com/hexagon/base64) - Base64 and Base64url to string or arraybuffer. ESM. Node, Deno, Bun, Browser. No dependencies. 10M+ weekly downloads.
+- [Croner](https://github.com/hexagon/croner) - JavaScript cron parser/scheduler. ESM. Node, Deno, Bun, Browser. No dependencies.
+- [Base64](https://github.com/hexagon/base64) - Base64 and Base64url to string or arraybuffer. ESM. Node, Deno, Bun, Browser. No dependencies.
 - [rootcard](https://github.com/hexagon/rootcard) - Portable, self-certifying identity for online logins. An ID card you own, with no password stored on the server.
 - [Fyr](https://github.com/hexagon/fyr) - Off-Grid Content Platform. Local Maps, Library and AI Assistant.
-- [Croner-rust](https://github.com/hexagon/croner-rust) - Rust cron parser/scheduler. Fully featured, performant and minimalistic.
-- [Pup](https://github.com/hexagon/pup) - Fully featured process manager, written in TypeScript with love for Deno.
+- [Croner-rust](https://github.com/hexagon/croner-rust) - Rust cron parser/scheduler. Performant and minimalistic.
+- [Pup](https://github.com/hexagon/pup) - Process manager, written in TypeScript with love for Deno.
 - [Minitz](https://github.com/hexagon/minitz) - Minimal timezone conversion library for JavaScript, written for Croner, but now its own package. No dependencies.
 - [Lumocs](https://github.com/hexagon/lumocs) - Easy to use static site generator for documentation, utilizing Lume and Deno.
 - [Entsoe-api-client](https://github.com/hexagon/entsoe-api-client) - Unofficial ENTSO-e REST API Client for Deno and Node.
@@ -22,4 +22,4 @@ Other than working on my own projects, I often find myself converting existing p
 
 🍔 **Support My Work:**
 
-I'm fueled by coffee and burgers (and am constantly out of tokens)! If you've benefited from my work or believe in supporting open-source, consider backing me on [GitHub Sponsors](https://github.com/sponsors/Hexagon). If one of my projects runs in your company's stack, a small monthly sponsorship helps keep it maintained. A big thank you to everyone who already does!
+I'm fueled by coffee and burgers (and am constantly out of tokens)! If you've benefited from my work or believe in supporting open-source, consider backing me on [GitHub Sponsors](https://github.com/sponsors/Hexagon). Croner and Base64 alone see 25M+ weekly downloads, and they're maintained by one person in their spare time. If one of my projects runs in your company's stack, a small monthly sponsorship helps keep it maintained. A big thank you to everyone who already does!
