@@ -22,4 +22,4 @@ Other than working on my own projects, I often find myself converting existing p
 
 🍔 **Support My Work:**
 
-I'm fueled by coffee and burgers (and am constantly out of tokens)! If you've benefited from my work or believe in supporting open-source, consider backing me on [GitHub Sponsors](https://github.com/sponsors/Hexagon). Croner and Base64 alone see 25M+ weekly downloads, and they're maintained by one person in their spare time. If one of my projects runs in your company's stack, a small monthly sponsorship helps keep it maintained. A big thank you to everyone who already does!
+I'm fueled by coffee and burgers (and am constantly out of tokens)! If you've benefited from my work or believe in supporting open-source, consider backing me on [GitHub Sponsors](https://github.com/sponsors/Hexagon). Croner and Base64 alone see 25M+ weekly downloads, and they're maintained by one person in their spare time. If one of my projects runs in your company's stack, a small monthly sponsorship helps keep it going. A big thank you to everyone who already does!
