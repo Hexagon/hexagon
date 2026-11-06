@@ -2,6 +2,7 @@ Hi, I'm Hexagon!
 
 A selection of my work:
 
+- [rootcard](https://github.com/hexagon/rootcard) - Portable, self-certifying identity for online logins. An ID card you own, with no password stored on the server.
 - [Fyr](https://github.com/hexagon/fyr) - Off-Grid Content Platform. Local Maps, Library and AI Assistant.
 - [Croner](https://github.com/hexagon/croner) - JavaScript cron parser/scheduler. ESM. Node, Deno, Bun, Browser. No dependencies.
 - [Croner-rust](https://github.com/hexagon/croner-rust) - Rust cron parser/scheduler. Fully featured, performant and minimalistic.
@@ -21,4 +22,4 @@ Other than working on my own projects, I often find myself converting existing p
 
 🍔 **Support My Work:**
 
-I'm fueled by coffee and burgers (and are constantly out of tokens)! If you've benefited from my work or believe in supporting open-source, consider backing me on [GitHub Sponsors](https://github.com/sponsors/Hexagon).
+I'm fueled by coffee and burgers (and are constantly out of tokens)! If you've benefited from my work or believe in supporting open-source, consider backing me on [GitHub Sponsors](https://github.com/sponsors/Hexagon). A big thank you to everyone who already does!
