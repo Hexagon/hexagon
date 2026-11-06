@@ -2,12 +2,12 @@ Hi, I'm Hexagon! I build open source tools, many of them small and dependency-fr
 
 A selection of my work:
 
-- [Croner](https://github.com/hexagon/croner) - JavaScript cron parser/scheduler. ESM. Node, Deno, Bun, Browser. No dependencies.
+- [Croner](https://github.com/hexagon/croner) - JavaScript cron parser/scheduler. ESM. Node, Deno, Bun, Browser. No dependencies. 15M+ weekly downloads.
 - [Base64](https://github.com/hexagon/base64) - Base64 and Base64url to string or arraybuffer. ESM. Node, Deno, Bun, Browser. No dependencies. 10M+ weekly downloads.
 - [rootcard](https://github.com/hexagon/rootcard) - Portable, self-certifying identity for online logins. An ID card you own, with no password stored on the server.
 - [Fyr](https://github.com/hexagon/fyr) - Off-Grid Content Platform. Local Maps, Library and AI Assistant.
-- [Pup](https://github.com/hexagon/pup) - Fully featured process manager, written in TypeScript with love for Deno.
 - [Croner-rust](https://github.com/hexagon/croner-rust) - Rust cron parser/scheduler. Fully featured, performant and minimalistic.
+- [Pup](https://github.com/hexagon/pup) - Fully featured process manager, written in TypeScript with love for Deno.
 - [Minitz](https://github.com/hexagon/minitz) - Minimal timezone conversion library for JavaScript, written for Croner, but now its own package. No dependencies.
 - [Lumocs](https://github.com/hexagon/lumocs) - Easy to use static site generator for documentation, utilizing Lume and Deno.
 - [Entsoe-api-client](https://github.com/hexagon/entsoe-api-client) - Unofficial ENTSO-e REST API Client for Deno and Node.
